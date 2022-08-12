@@ -2,7 +2,7 @@
 Приведены результаты исследования на предмет длины роста зубов морских свинок в зависимости от потребления ими витамина С.  
 Исходные данные эксперимента https://academic.oup.com/jn/article-abstract/33/5/491/4726758?redirectedFrom=fulltext
 были представлены в формате табличных данных:  
-![Обзор данных](https://github.com/PolkaDott/GuineaPig-Researching/blob/911b165e825c1f83dcb3b387fb81a4bdf4167d13/screenshots/boxplot.png)  
+![Обзор данных](https://github.com/PolkaDott/GuineaPig-Researching/blob/2131d7651e93c7a225766dd795eee25e340d1687/screenshots/datapreview.jpg)  
 Были выделены два набора пищевого обеспечения для испытуемых:  
 - Апельсиновый сок. Содержание 0.5 грамм витамина  
 - Аскорбиновая кислота. Содержание 2 грамма витамина  
